@@ -3,24 +3,23 @@
 
 Welcome to my personal repository for Java course notes. This repository serves as a structured collection of concepts, examples, and exercises covered during my learning process.
 
-📌 Overview
+## 📌 Overview
 
-This repository contains:
+- This repository contains:
 
-Key Java concepts and syntax
+- Key Java concepts and syntax
 
-Code snippets and examples
+- Code snippets and examples
 
-Exercises and solutions
+- Exercises and solutions
 
-Best practices and design patterns
+- Best practices and design patterns
 
-Notes on Java frameworks and tools
+- Notes on Java frameworks and tools
 
 🛠️ Technologies
 
-Java (JDK 17+ recommended)
-
+Java 21 (JDK 17+ recommended)
 
 
 VS Code (optional, for development)
