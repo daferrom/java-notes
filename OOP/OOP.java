@@ -16,6 +16,7 @@ class Calculator
     // Void means that the method does not return any value
     // int before the method name means that the method returns an integer
     public int add(int n1, int n2)
+
     {
         int r = n1 + n2;
         return r;
