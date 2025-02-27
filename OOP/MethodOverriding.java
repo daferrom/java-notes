@@ -1,3 +1,5 @@
+import calculator.Calc;
+
 class A
 {
     public void show()

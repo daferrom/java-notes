@@ -1,3 +1,5 @@
+import calculator.VeryAdvCalc;
+
 public class Inheritance {
     public static void main(String a[])
     {
