@@ -1,5 +1,5 @@
 class Mobile {
-    // instance varaiables
+    // instance variables
     String brand;
     int price;
 
