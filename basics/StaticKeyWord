@@ -1,5 +1,5 @@
 class Mobile {
-    // instance varaiables
+    // instance variables
     String brand;
     int price;
 
@@ -40,12 +40,12 @@ public class StaticKeyWord
         Mobile obj2 = new Mobile();
         obj2.brand = "Samsung";
         obj2.price = 1700;
-        Mobile.name = "SmartPhone";
+        Mobile.name = "SmartPhone hello";
 
         // with the static keyword on variable name o Mobile class it affects all the instances// 
         // obj1.name = "phone";
 
-        obj1.showDetails();
-        obj2.showDetails();
+        obj1.showDetails(); // Apple : SmartPhone : 1500
+        obj2.showDetails(); // Samsung : SmartPhone : 1700 // in name it only prints Smartphone because is static
     }
 }
